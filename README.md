@@ -4,8 +4,7 @@ This project is a Role-Based Access Control (RBAC) admin dashboard built with **
 
 ### 🌐 **Live Demo**
 
-Check out the live version of the project here: [RBAC UI](https://vercel.com/160121s-projects/rbac-ui)
-
+Check out the live version of the project here: [RBAC UI](https://rbac-ui-nine-mu.vercel.app/)
 
 ## 📖 **Features**
 
